@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there im Douglass Williams
+<h1>Hi, I'm Douglass , an <a href="https://linkedin.com/in/Dougwilli02">IT Professional</a>☺</h1>
 
-<!--
-**Dougwill02/Dougwill02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Dougwilli02/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Dougwilli02/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Dougwilli02/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](Dougwilli02/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Dougwilli02/azure-network-protocols)
